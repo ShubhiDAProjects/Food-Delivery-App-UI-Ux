@@ -38,16 +38,16 @@ The project includes 8 carefully designed screens:
 ![Login](screenshots/Login.png)
 
 ### 04. Onboarding Screen 1
-![Onboarding 1](screenshots/Onboarding screen 1.png)
+![Onboarding screen 1](screenshots/Onboarding screen 1.png)
 
 ### 05. Onboarding Screen 2
-![Onboarding 2](screenshots/Onboarding screen 2.png)
+![Onboarding screen 2](screenshots/Onboarding screen 2.png)
 
 ### 06. Onboarding Screen 3
-![Onboarding 3](screenshots/Onboarding screen 3.png)
+![Onboarding screen 3](screenshots/Onboarding screen 3.png)
 
 ### 07. Order Screen
-![Order](screenshots/Order Screen.png)
+![Order Screen](screenshots/Order Screen.png)
 
 ### 08. Signup Screen
 ![Signup](screenshots/Signup.png)
